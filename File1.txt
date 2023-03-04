@@ -6,3 +6,5 @@ add logo
 PC1 write
 PC2 Write
 
+pc2 said
+
