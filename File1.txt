@@ -7,4 +7,5 @@ PC1 write
 PC2 Write
 
 pc2 said
+pc1 read
 
