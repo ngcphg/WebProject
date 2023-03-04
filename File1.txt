@@ -1,3 +1,6 @@
 Flowers 1
 Weeboo
+add banner
+add logo
+
 
