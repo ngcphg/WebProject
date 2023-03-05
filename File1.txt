@@ -12,3 +12,5 @@ pc1 read
 
 nd ngay hoc git gui
 
+sua file1
+
