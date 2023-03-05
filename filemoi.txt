@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-sua file
-=======
-hihi
->>>>>>> nv-c
