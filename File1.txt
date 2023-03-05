@@ -12,5 +12,9 @@ pc1 read
 
 nd ngay hoc git gui
 
+<<<<<<< HEAD
 sua file1
+=======
+nhanhc
+>>>>>>> nv-c
 
