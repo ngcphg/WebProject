@@ -9,3 +9,6 @@ PC2 Write
 pc2 said
 pc1 read
 
+
+nd ngay hoc git gui
+
